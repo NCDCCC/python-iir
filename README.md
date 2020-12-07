@@ -21,16 +21,16 @@ python ./data/mp3ToWav.py
 
 ## 怎么用/How to use
 ./data里面是要处理的4个mp3以及用./data/mp3ToWav.py转换成的四个wav文件。  
-在命令行输入
+如果要处理《我和你》：  
 ```python
 python final.py
 ```
-处理《我和你》，  
-输入
+  
+如果要处理《广播电台》：  
 ```python
 python final2.py
 ```
-处理《广播电台》。  
+  
 代码里有注释。  
 
 
