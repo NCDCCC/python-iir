@@ -7,12 +7,7 @@ scipy1.5.4
 matplotlib3.3.2  
 numpy 1.19.2  
 
----
-If you want to use ./data/mp3ToWav.py:  
-```python
-pip install pydub  
-python ./data/mp3ToWav.py  
-```
+
 
 ## 这是什么
 哈尔滨工业大学数字信号处理课程（彭宇老师）布置的实验作业。  
@@ -30,8 +25,13 @@ python final.py
 ```python
 python final2.py
 ```
-  
-代码里有注释。  
+如果要将MP3文件转换成wav文件，将要转换的MP3放入./data文件夹中，并且运行  
+```python
+pip install pydub  
+python ./data/mp3ToWav.py  
+```
+
+每个代码里有注释。  
 
 
 ## 注意
