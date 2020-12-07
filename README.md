@@ -9,7 +9,7 @@ numpy 1.19.2
 
 ---
 If you want to use ./data/mp3ToWav.py:  
-···python
+```python
 pip install pydub  
 python ./data/mp3ToWav.py  
 ```
@@ -21,8 +21,16 @@ python ./data/mp3ToWav.py
 
 ## 怎么用/How to use
 ./data里面是要处理的4个mp3以及用./data/mp3ToWav.py转换成的四个wav文件。  
-在命令行输入python final.py处理《我和你》，  
-输入python final2.py处理《广播电台》。  
+在命令行输入
+```python
+python final.py
+```
+处理《我和你》，  
+输入
+```python
+python final2.py
+```
+处理《广播电台》。  
 代码里有注释。  
 
 
